@@ -3,6 +3,7 @@
 </p>
 
 # Chisaki Kai
+https://heroku.com/deploy?template=https://github.com/wonantes/kai.git
 
 <p align="center">
 - x -|│  “	Just some code who is a bot for fun. ”  │| - x -
